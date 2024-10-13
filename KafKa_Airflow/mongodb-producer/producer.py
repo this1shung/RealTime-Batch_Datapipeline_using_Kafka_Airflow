@@ -19,7 +19,7 @@ class JSONEncoder(json.JSONEncoder):
         return json.JSONEncoder.default(self, obj)
 
 def get_data_from_change_stream():
-    MONGO_URI = os.environ.get('MONGODB_URI', "your mongodb URI")
+    MONGO_URI = os.environ.get('MONGODB_URI', "mongodb+srv://hungqlworking:IC96WUPzMTJzCkI1@cluster0.temagzq.mongodb.net/netflix_DB?retryWrites=true&w=majority&appName=Cluster0")
     client = MongoClient(MONGO_URI)
     db = client["netflix_DB"]
     collection = db["searchhistories"]

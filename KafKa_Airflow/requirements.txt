@@ -3,3 +3,6 @@ cassandra-driver
 boto3
 pandas
 apache-airflow-providers-amazon
+minio==7.1.14
+apache-airflow-providers-docker==3.7.1
+apache-airflow-providers-slack==7.3.1

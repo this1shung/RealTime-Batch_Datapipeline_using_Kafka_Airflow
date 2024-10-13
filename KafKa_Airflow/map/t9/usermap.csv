@@ -1,0 +1,94 @@
+userid,user_name,age,gender,location,subscription_type,registration_date
+66f0e238f57669b3bb036db1,EthanChen,32,Male,New York,Premium,2023-07-15
+66f0e238f57669b3bb036db2,OliviaWang,28,Female,London,Basic,2022-11-30
+66f0e238f57669b3bb036db3,NoahLiu,41,Male,Toronto,Free,2024-01-02
+66f0e2e2715a57051574b62c,SophiaZhang,35,Female,Sydney,Premium,2023-09-18
+66f0e2e2715a57051574b62d,LiamYang,26,Male,Singapore,Basic,2023-03-07
+66f0e238f57669b3bb036db8,EmmaLi,39,Female,Los Angeles,Free,2022-12-22
+66f0e3221a83bf58568fd1fc,AidenWu,30,Male,Tokyo,Premium,2024-02-11
+66f0e238f57669b3bb036db6,IsabellaHuang,23,Female,Paris,Basic,2023-06-04
+66f0e3221a83bf58568fd200,JacksonXu,45,Male,Berlin,Free,2022-10-18
+66f0e3221a83bf58568fd1fe,AvaGuo,33,Female,Barcelona,Premium,2023-11-30
+66f0e3221a83bf58568fd1ff,MasonTang,29,Male,Amsterdam,Basic,2023-08-25
+66f0e238f57669b3bb036db7,SofiaZhou,37,Female,Rome,Free,2024-01-15 
+66f0e238f57669b3bb036dba,LucasFeng,25,Male,Dubai,Premium,2023-04-09
+66f0e2e2715a57051574b626,MilaJiang,42,Female,Moscow,Basic,2023-09-03
+66f0e2e2715a57051574b628,LoganSun,31,Male,Seoul,Free,2022-12-12
+66f0e2e2715a57051574b62f,HarperDeng,27,Female,Mumbai,Premium,2023-10-20
+66f0e2e2715a57051574b62a,OscarQin,38,Male,São Paulo,Basic,2023-02-14
+66f0e2e2715a57051574b627,LilyRen,34,Female,Cape Town,Free,2022-08-07
+66f0e3062ef39d0b29751ae2,ElijahYu,40,Male,Mexico City,Premium,2024-03-01
+66f0e2e2715a57051574b629,ZoeWang,29,Female,Stockholm,Basic,2023-05-29
+66f0e24b84f341894d77182c,CalebZhang,36,Male,Dublin,Free,2022-11-05
+66f0e0dbed136a0ac7c40e21,AuroraChen,24,Female,Helsinki,Premium,2023-09-17
+66f0e2a0f9032f7187b16eca,LeoLiu,43,Male,Oslo,Basic,2023-01-23
+66f0e238f57669b3bb036db9,StellaTang,31,Female,Vienna,Free,2022-10-11
+66f0e238f57669b3bb036db5,HugoWu,39,Male,Prague,Premium,2023-07-30
+66f0e238f57669b3bb036db4,ClaireLi,22,Female,Budapest,Basic,2024-02-19
+66f0e2e2715a57051574b62b,FelixHuang,46,Male,Warsaw,Free,2023-04-03
+66f0e2e2715a57051574b62e,LunaCao,33,Female,Athens,Premium,2023-08-22
+66f0e3062ef39d0b29751ade,MaxJiang,28,Male,Lisbon,Basic,2022-09-09
+66f0e20b5556bf95ebd78982,EvaXu,37,Female,Rio de Janeiro,Free,2023-06-14
+66f0e0dbed136a0ac7c40e24,OliverGuo,26,Male,Buenos Aires,Premium,2024-01-07
+66ed748493aab795b16f9afc,AmeliaZhou,34,Female,Santiago,Basic,2023-03-25
+66f0e2d1a181d7946f1d5f3c,LiamFeng,41,Male,Lima,Free,2022-12-30
+66f0e24b84f341894d771828,HazelYang,25,Female,Bogotá,Premium,2023-11-05
+66f0e2a0f9032f7187b16ec8,EzraWang,38,Male,Nairobi,Basic,2023-05-18
+66f0e24b84f341894d77182b,PenelopeSun,30,Female,Lagos,Free,2022-12-21
+66ea83e5234900idsfggsdgg,JasperLin,44,Male,Cairo,Premium,2023-08-03
+66f0e2d1a181d7946f1d5f3a,ScarlettDeng,27,Female,Dubai,Basic,2024-02-27
+66f0e0ee9e43ef20850eeaba,MilesRen,35,Male,Tel Aviv,Free,2023-04-12
+66f0e313d328f08f55b77c67,NoraChen,32,Female,Istanbul,Premium,2023-10-08
+66f0e24b84f341894d77182d,FinnZhang,42,Male,Mumbai,Basic,2023-02-15
+66f0e20b5556bf95ebd78980,AriaChen,29,Female,Bangkok,Free,2023-07-22
+66f0e313d328f08f55b77c64,ZacharyWu,36,Male,Kuala Lumpur,Premium,2022-11-29
+66ea83e5b3b49e8409349fg3,VioletTang,31,Female,Manila,Basic,2024-03-06
+66ed74cc93aab795b16f9b0e,KaiLiu,39,Male,Jakarta,Free,2023-05-11
+66f0e24b84f341894d77182e,AudreyZhou,27,Female,Ho Chi Minh City,Premium,2022-09-14
+66f0e1699577e70e8146c7d3,LandonYang,44,Male,Hanoi,Basic,2023-11-27
+66f0e2d1a181d7946f1d5f3d,BrooklynWang,33,Female,Taipei,Free,2023-03-02
+66f0e0ee9e43ef20850eeab9,HudsonLi,40,Male,Hong Kong,Premium,2023-08-16
+66f0e2a0f9032f7187b16ec4,SavannahChen,25,Female,Macau,Basic,2022-12-09
+66f0e24b84f341894d771827,RiverZhang,37,Male,Guangzhou,Free,2023-06-23
+66f0e20b5556bf95ebd78981,SkylarXu,30,Female,Shenzhen,Premium,2024-01-10
+66f0e313d328f08f55b77c69,AustinGuo,43,Male,Chengdu,Basic,2023-04-28
+66f0e313d328f08f55b77c6b,PaigeHuang,28,Female,Wuhan,Free,2022-10-05
+66f0e313d328f08f55b77c65,RomanLiu,35,Male,Xi'an,Premium,2023-12-12
+66f0e313d328f08f55b77c6a,JuneCao,32,Female,Hangzhou,Basic,2023-02-18
+66f0e25ababc0efaf22091df,SilasTang,41,Male,Nanjing,Free,2023-09-01
+66ea83e5b3b49e43jgfdoij9,IvyWu,26,Female,Chongqing,Premium,2022-11-08
+66f0e25ababc0efaf22091e0,AtticusZhou,38,Male,Tianjin,Basic,2023-07-15
+66f0e313d328f08f55b77c68,DaisyLi,29,Female,Suzhou,Free,2023-03-22
+66ea83e5949450394it90439,FelixChen,45,Male,Qingdao,Premium,2024-02-04
+66f0e313d328f08f55b77c66,HazelYang,34,Female,Dalian,Basic,2023-05-27
+66ea83e5b3b49e84729440f9,OscarWang,39,Male,Shenyang,Free,2022-09-19
+66f0e3221a83bf58568fd1fa,LunaZhang,27,Female,Xiamen,Premium,2023-11-03
+66f0e25ababc0efaf22091e1,MaxLiu,42,Male,Ningbo,Basic,2023-01-20
+66f0e24b84f341894d771829,ZoeyTang,31,Female,Fuzhou,Free,2023-08-06
+66f0e3062ef39d0b29751ae4,EliChen,36,Male,Changsha,Premium,2022-12-29
+66f0e2a0f9032f7187b16ec9,GraceLi,28,Female,Jinan,Basic,2023-06-11
+66f0e3221a83bf58568fd1fd,LeoWu,40,Male,Zhengzhou,Free,2024-01-17
+66f0e24b84f341894d77182a,MilaZhou,33,Female,Kunming,Premium,2023-04-24
+66f0e3221a83bf58568fd1fb,JasperXu,25,Male,Nanning,Basic,2023-10-21
+66f0e0ee9e43ef20850eeab6,AuroraCao,37,Female,Hefei,Free,2022-11-28
+66f0e0ee9e43ef20850eeab7,KaiGuo,30,Male,Wuxi,Premium,2023-07-09
+66f0e2a0f9032f7187b16ec6,NoraHuang,44,Female,Foshan,Basic,2023-03-16
+66f0e2a0f9032f7187b16ec7,LiamLiu,32,Male,Dongguan,Free,2023-09-23
+66ea83e5b3b49e71529340f5,EvaTang,29,Female,Nanchang,Premium,2022-12-01
+66f0e0ee9e43ef20850eeabb,HugoChen,41,Male,Guiyang,Basic,2023-05-08
+66f0e2a0f9032f7187b16ec5,StellaWu,26,Female,Taiyuan,Free,2024-02-14
+66f0e0ee9e43ef20850eeab8,ElijahZhou,38,Male,Shijiazhuang,Premium,2023-04-01
+66f0e2d1a181d7946f1d5f3e,ChloeYang,35,Female,Wenzhou,Basic,2023-10-28
+66f0e20b5556bf95ebd78984,CalebLi,28,Male,Quanzhou,Free,2023-01-05
+66f0e2d1a181d7946f1d5f3b,PenelopeZhang,43,Female,Nantong,Premium,2023-08-12
+66f0e1699577e70e8146c7d0,MasonWang,31,Male,Changzhou,Basic,2022-11-19
+66f0e20b5556bf95ebd78983,HarperXu,36,Female,Zhuhai,Free,2023-06-26
+66f0e1699577e70e8146c7d4,LucasCao,27,Male,Urumqi,Premium,2024-03-03
+66f0e1699577e70e8146c7d1,AvaGuo,39,Female,Harbin,Basic,2023-02-08
+66f0e1699577e70e8146c7d2,EthanLiu,34,Male,Changchun,Free,2023-09-30
+66f0e0dbed136a0ac7c40e22,SofiaWu,30,Female,Lanzhou,Premium,2022-12-14
+66f0e0dbed136a0ac7c40e23,LoganChen,42,Male,Yantai,Basic,2023-07-19
+66f0e0dbed136a0ac7c40e25,LilyTang,28,Female,Xiamen,Free,2023-05-02
+66ed749093aab795b16f9b06,JacksonZhou,37,Male,Sanya,Premium,2024-01-25
+66ea83e7b3b49e7152934100,MiaYang,32,Female,Haikou,Basic,2023-03-11
+66eae30c368cfd9f56c075fd,OliverLiu,40,Male,Zhuhai,Free,2022-10-07
